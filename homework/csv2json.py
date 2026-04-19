@@ -1,4 +1,4 @@
-"""Script para convertir un archivo CSV a JSON"""
+"""Script para convertir un archivo CSV a JSON 2"""
 
 import csv
 import json
