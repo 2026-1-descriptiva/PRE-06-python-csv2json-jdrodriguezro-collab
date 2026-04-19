@@ -1,4 +1,4 @@
-"""Script para convertir un archivo CSV a JSON usando NiceGUI."""
+"""Script para convertir un archivo CSV a JSON."""
 
 import csv
 import json
